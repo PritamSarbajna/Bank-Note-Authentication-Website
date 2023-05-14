@@ -14,6 +14,18 @@ This is a machine learning project to detect whether a note is real or fake [Acc
 - Finally, giving the output based on the given input the note is real or fake.
 
 
+# Tech Stacks used
+
+## For Frontend
+- React Js
+- Tailwind CSS
+- HTML
+
+## For Backend
+- FastAPI
+- Python
+
+
 # To locally run this react website
 
 ## Available Scripts
