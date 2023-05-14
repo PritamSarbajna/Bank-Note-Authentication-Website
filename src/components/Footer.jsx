@@ -10,16 +10,20 @@ const Footer = () =>{
             </div>
             <div class="flex md:ml-auto md:mr-0 mx-auto items-center flex-shrink-0 space-x-4">
             <button class="bg-gray-800 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-700 hover:bg-opacity-50 focus:outline-none">
-                <span class="ml-4 flex items-start flex-col leading-none">
-                <span class="text-xs text-gray-500 mb-1">View the project</span>
-                <span class="title-font font-medium">GitHub</span>
-                </span>
+                <a href="https://github.com/PritamSarbajna/Bank-Note-Authentication-Website" target='_blank' rel='noreferrer'>
+                    <span class="ml-4 flex items-start flex-col leading-none">
+                    <span class="text-xs text-gray-500 mb-1">View the website project</span>
+                    <span class="title-font font-medium">GitHub</span>
+                    </span>
+                </a>
             </button>
-            <button class="bg-gray-100inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-700 hover:bg-opacity-50 focus:outline-none">
-                <span class="ml-4 flex items-start flex-col leading-none">
-                <span class="text-xs text-gray-500 mb-1">Contribute to the project</span>
-                <span class="title-font font-medium">GitHub</span>
-                </span>
+            <button class="bg-gray-800 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-700 hover:bg-opacity-50 focus:outline-none">
+                <a href="https://github.com/PritamSarbajna/Bank-Note-Authentication" target='_blank' rel='noreferrer'>
+                    <span class="ml-4 flex items-start flex-col leading-none">
+                    <span class="text-xs text-gray-500 mb-1">View the prediction project</span>
+                    <span class="title-font font-medium">GitHub</span>
+                    </span>
+                </a>
             </button>
             </div>
         </div>

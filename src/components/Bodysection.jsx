@@ -98,14 +98,14 @@ const Bodysection = () => {
 
             {responseObject? (
               <div class="w-full text-center">
-                <p class="leading-normal py-9 text-[#fff]">
+                <p class="leading-normal text-2xl py-9 text-[#fff]">
                   Prediction : {responseObject.prediction}
                 </p>
               </div>
             ): 
             (
               <div class="w-full text-center">
-                <p class="leading-normal py-9 text-[#fff]">
+                <p class="leading-normal text-2xl py-9 text-[#fff]">
                   Get your prediction here
                 </p>
               </div>
