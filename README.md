@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+![Copy of Black Minimal Motivation Quote LinkedIn Banner](https://github.com/PritamSarbajna/Bank-Note-Authentication-Website/assets/90236635/2947c405-030d-4e1d-b220-550381bd8614)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description :
+
+This is a machine learning project to detect whether a note is real or fake [Accuracy : 99% | No Overfitting].
+
+- This is the Frontend part of the project.
+- The Backend FastAPI project is here [Bank-Note-Authentication](https://github.com/PritamSarbajna/Bank-Note-Authentication)
+
+# How the project is working
+
+- The react app is giving a `POST` request on the FastAPI application 
+- The FastAPI predicting the values
+- Finally, giving the output based on the given input the note is real or fake.
+
+
+# To locally run this react website
 
 ## Available Scripts
 
@@ -44,27 +58,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
